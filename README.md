@@ -1,9 +1,9 @@
-# Commentary Static Site Fixtures
+# Astro Markdown Compatibility Fixture
 
-This public repository contains Hugo, Jekyll, and Astro Markdown fixtures for Commentary.
+Demonstrates Astro content collection detection, MDX syntax, and component placeholders.
 
-## Fixture Branches
+## Manual Commentary Routes
 
-- `fixture/hugo`
-- `fixture/jekyll`
-- `fixture/astro`
+```text
+/review/github/commentary-dev/commentary-static-site-fixtures/pull/<PR_NUMBER>?file=src%2Fcontent%2Fdocs%2Fintro.mdx
+```
