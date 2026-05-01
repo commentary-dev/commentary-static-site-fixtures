@@ -5,5 +5,5 @@ Demonstrates Astro content collection detection, MDX syntax, and component place
 ## Manual Commentary Routes
 
 ```text
-/review/github/commentary-dev/commentary-static-site-fixtures/pull/6?file=src%2Fcontent%2Fdocs%2Fintro.mdx
+/review/github/commentary-dev/commentary-static-site-fixtures/pull/9?file=src%2Fcontent%2Fdocs%2Fintro.mdx
 ```
