@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160" viewBox="0 0 320 160" role="img" aria-label="Hugo fixture hero">
+  <rect width="320" height="160" fill="#f6f8fa"/>
+  <circle cx="88" cy="80" r="42" fill="#54aeff"/>
+  <rect x="152" y="56" width="112" height="48" rx="6" fill="#ffffff" stroke="#57606a"/>
+</svg>
